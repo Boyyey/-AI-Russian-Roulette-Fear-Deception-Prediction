@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+opencv-python
+numpy
+scikit-learn
+matplotlib
+deepface
+requests
+# Optional for advanced NLP taunts
+openai 
